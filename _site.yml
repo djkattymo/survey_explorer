@@ -1,0 +1,9 @@
+name: "survey_explorer"
+output_dir: "."
+navbar:
+  title: "Survey Explorer"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
